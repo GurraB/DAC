@@ -28,7 +28,7 @@ Current status:
 
 The PCB is manufactured and the components are soldered on, I have not tested the board yet.
 
-![Picture of the schematic](https://raw.githubusercontent.com/GurraB/DAC/DAC_sch.png)
-![Picture of the board layout](https://raw.githubusercontent.com/GurraB/DAC/DAC_brd.png)
+![Picture of the schematic](https://github.com/GurraB/DAC/blob/master/DAC_sch.PNG)
+![Picture of the board layout](https://github.com/GurraB/DAC/blob/master/DAC_brd.PNG)
 
 Design is based upon http://users.abo.fi/jskata/JEDAC/
