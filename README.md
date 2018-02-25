@@ -30,5 +30,7 @@ The PCB is manufactured and the components are soldered on, I have not tested th
 
 ![Picture of the schematic](https://github.com/GurraB/DAC/blob/master/DAC_sch.png)
 ![Picture of the board layout](https://github.com/GurraB/DAC/blob/master/DAC_brd.PNG)
+![Picture of finished board without components](https://github.com/GurraB/DAC/blob/master/IMG_20180225_131850.jpg)
+![Picture of finished board with components](https://github.com/GurraB/DAC/blob/master/IMG_20180225_131945.jpg)
 
 Design is based upon http://users.abo.fi/jskata/JEDAC/
