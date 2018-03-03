@@ -27,6 +27,7 @@ This is the first design that I have made to see if I can make a simple DAC to b
 Current status:
 
 26/02-2018 - PCB is manufactured and the components are soldered on, I have not tested the board yet.
+
 03/03-2018 - Tested and works. There was an error in the design. FUNC3 trace should be connected to FUNC0 instead. I bridged the two pins and it works.
 
 ![Picture of the schematic](https://github.com/GurraB/DAC/blob/master/DAC_sch.png)
