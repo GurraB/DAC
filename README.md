@@ -24,15 +24,11 @@ The bottleneck in the system is the PCM2707c since it can only accept 16 bit aud
 Future work:
 This is the first design that I have made to see if I can make a simple DAC to begin with. In the future I have plans to add an ESP32 to allow for bluetooth connectivity. I have also thought about adding a Raspberry Pi Zero W that can act as a spotify connect device.
 
-Current status:
-
-26/02-2018 - PCB is manufactured and the components are soldered on, I have not tested the board yet.
-
-03/03-2018 - Tested and works. There was an error in the design. FUNC3 trace should be connected to FUNC0 instead. I bridged the two pins and it works.
-
 ![Picture of the schematic](https://github.com/GurraB/DAC/blob/master/DAC_sch.png)
 ![Picture of the board layout](https://github.com/GurraB/DAC/blob/master/DAC_brd.PNG)
 ![Picture of finished board without components](https://github.com/GurraB/DAC/blob/master/IMG_20180225_131850.jpg)
 ![Picture of finished board with components](https://github.com/GurraB/DAC/blob/master/IMG_20180225_131945.jpg)
+![Picture of finished DAC in enclosure](https://github.com/GurraB/DAC/blob/master/IMG_20180917_130856.jpg)
+![Picture of finished DAC in enclosure](https://github.com/GurraB/DAC/blob/master/IMG_20180917_130901.jpg)
 
 Design is based upon http://users.abo.fi/jskata/JEDAC/
